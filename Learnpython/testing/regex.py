@@ -241,7 +241,7 @@ for i in items:
 
 print(stats)
     
-
+print("updating to git")
     
 
     
